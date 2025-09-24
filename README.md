@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**aprlpet/aprlpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+   <p float="left">
+       <samp>
+           hii ^-^
+           <br>
+           im april !
+           <br>
+           <br>
+           i like nix, rust and c/c++
+           <br>
+           i know a lot about the jvm , hypervisors and windows
+           <br>
+           <br>
+           my twitter :
+           <br>
+           &nbsp;<a href="https://twitter.com/aprlpet">twitter/aprlpet</a>
+           <br>
+           <br>
+           my site :
+           <br>
+           &nbsp;<a href="https://aprl.pet">aprl.pet</a>
+       </samp>
+   </p>
+</p>
